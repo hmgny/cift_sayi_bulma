@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/cift_sayi/cift_sayi.iml" filepath="$PROJECT_DIR$/cift_sayi/cift_sayi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/cift_sayi_bulma.iml" filepath="$PROJECT_DIR$/.idea/cift_sayi_bulma.iml" />
+    </modules>
+  </component>
+</project>
